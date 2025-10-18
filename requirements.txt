@@ -1,0 +1,9 @@
+requests
+aiohttp
+beautifulsoup4
+colorama
+numpy
+pandas
+scikit-learn
+tensorflow
+selenium
